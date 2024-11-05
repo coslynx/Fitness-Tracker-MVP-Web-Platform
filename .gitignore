@@ -1,0 +1,30 @@
+# Build output
+.next
+
+# Vercel build output
+out
+
+# Node.js build output
+dist
+
+# Test results
+coverage
+
+# IDE files
+.vscode
+
+# Auto-generated files
+node_modules
+npm-debug.log*
+
+# TypeScript build output
+*.tsbuildinfo
+
+# Generated types
+*.d.ts
+
+# Local env files
+.env.local
+
+# Deployment configuration
+vercel.json
